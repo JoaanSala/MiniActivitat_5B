@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MiniActivitat_5B</string>
+
+    <string name="Download_Webpage">Download Web Page</string>
+    <string name="Download_Image">Download image</string>
+
+    <string name="NoConnection">o No network operating !!</string>
+    <string name="WifiConnection">Wifi connected !</string>
+    <string name="MobileConnected">Mobile connected !</string>
+</resources>
